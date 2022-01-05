@@ -1,0 +1,31 @@
+{
+  "age": 25, "name": "Malik Testaverde",
+  "position": "QB", "traits": ["Cowardly", "Brave"],
+  "attributes": {
+    "speed": 70,
+    "agility": 80,
+    "acceleration": 60,
+    "strength": 70,
+    "jumping": 40,
+
+    "aggressiveness": 40,
+    "composure": 60,
+    "vision": 70,
+
+    "arm_power": 80,
+    "accuracy": 85,
+
+    "catching": 40,
+
+    "kick_power": 20,
+    "kick_accuracy": 30,
+
+    "tackling": 10,
+    "pass_rush": 10,
+    "rush_defense": 10,
+
+    "pass_block": 10,
+    "run_block": 10
+  },  "city": "Mount Dora",
+  "state": "Florida"
+}

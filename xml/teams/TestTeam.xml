@@ -1,0 +1,95 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone = "yes"?>
+<team name = "Test Team">
+    <school_type>University</school_type>
+    <player id="1000">
+        <age>21</age>
+        <city>Mount Dora</city>
+        <state>FL</state>
+        <name>Malik Testaverde</name>
+        <position>QB</position>
+        <traits>
+            <trait>Leader</trait>
+            <trait>Cowardly</trait>
+        </traits>
+        <attributes>
+            <!-- Physical Attributes -->
+            <speed>70</speed>
+            <agility>80</agility>
+            <acceleration>60</acceleration>
+            <strength>80</strength>
+            <jumping>60</jumping>
+
+            <!-- Mentality -->
+            <aggressiveness>40</aggressiveness>
+            <composure>80</composure>
+            <vision>70</vision>
+
+            <!-- QB Skills -->
+            <arm_power>90</arm_power>
+            <accuracy>90</accuracy>
+
+            <!-- WR Skills -->
+            <catching>10</catching>
+
+            <!-- Kicking -->
+            <kick_power>5</kick_power>
+            <kick_accuracy>5</kick_accuracy>
+
+            <!-- Defense -->
+            <tackling>20</tackling>
+            <pass_rush>10</pass_rush>
+            <run_defense>10</run_defense>
+
+            <!-- Blocking -->
+            <run_block>5</run_block>
+            <pass_block>5</pass_block>
+
+        </attributes>
+    </player>
+    <player id="1002">
+        <age>21</age>
+        <city>Mount Dora</city>
+        <state>FL</state>
+        <name>John Testaverde</name>
+        <position>RB</position>
+        <traits>
+            <trait>Leader</trait>
+            <trait>Cowardly</trait>
+        </traits>
+        <attributes>
+            <!-- Physical Attributes -->
+            <speed>70</speed>
+            <agility>80</agility>
+            <acceleration>60</acceleration>
+            <strength>80</strength>
+            <jumping>60</jumping>
+
+            <!-- Mentality -->
+            <aggressiveness>40</aggressiveness>
+            <composure>80</composure>
+            <vision>70</vision>
+
+            <!-- QB Skills -->
+            <arm_power>90</arm_power>
+            <accuracy>90</accuracy>
+
+            <!-- WR Skills -->
+            <catching>10</catching>
+
+            <!-- Kicking -->
+            <kick_power>5</kick_power>
+            <kick_accuracy>5</kick_accuracy>
+
+            <!-- Defense -->
+            <tackling>20</tackling>
+            <pass_rush>10</pass_rush>
+            <run_defense>10</run_defense>
+
+            <!-- Blocking -->
+            <run_block>5</run_block>
+            <pass_block>5</pass_block>
+
+        </attributes>
+    </player>
+
+</team>
